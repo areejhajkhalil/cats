@@ -1,0 +1,30 @@
+body{
+    background-color: #eabf9f;
+    margin: 0%;
+}
+     
+header{
+    color:#1e212d;
+    background-color:#865858 ;
+    height: 80%px;
+
+}
+    
+header nav{
+   
+    display: inline-block;
+   
+
+header h1{
+    
+    margin-left:60px ;
+    
+}
+
+
+header nav ul li{
+    display: inline-block;
+    
+}
+    
+    
